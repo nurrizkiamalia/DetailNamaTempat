@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Detail Nama Tempat</string>
+
+    <string-array name="pariwisata">
+        <item>New York</item>
+        <item>Snowy Mountain</item>
+        <item>Savannah</item>
+        <item>Salt Sea</item>
+        <item>London Street</item>
+    </string-array>
+
+    <string-array name="desc">
+        <item>Kota New York yang sangat menarik dari berbagai sudut, hollywood, art, dan pusat dunia ada di kota ini.</item>
+        <item>Mengunjungi gunung es sangat menantang. Kamu perlu melakukannya jika pecinta adrenalin.</item>
+        <item>Pohon yang jarang, permukaan yang gersang menjadi daya tarik sendiri pada gurun savannah ini.</item>
+        <item>Air laut yang bening memantulkan citra dari langit, tempat yang bagus untuk memotret.</item>
+        <item>Perkotaan London yang terasa sangat nyaman dan padat, salah satu kota yang harus dikunjungi terlebih dengan adanya jam besar yang menjadi daya tarik.</item>
+    </string-array>
+</resources>
